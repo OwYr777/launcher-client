@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "active": {
-    "version": "v1.0.5",
-    "exeUrl": "https://github.com/OwYr777/launcher-client/releases/download/v1.0.5/McLauncher.exe",
+    "version": "v1.0.6",
+    "exeUrl": "https://github.com/OwYr777/launcher-client/releases/download/v1.0.6/McLauncher.exe",
     "sha256": "b1fcfd56a9c296c4f724ed56e60cdc3f4bde1d5ed474df676a65dcfbfdcc2309",
-    "modsZipUrl": "https://github.com/OwYr777/launcher-client/releases/download/v1.0.5/bundled-mods.zip",
+    "modsZipUrl": "https://github.com/OwYr777/launcher-client/releases/download/v1.0.6/bundled-mods.zip",
     "modsZipSha256": "19c0bc01c092d3789e45bda88adf95e583113b73945ed84ae471ab403c3bd2ba",
-    "notes": "public build"
+    "notes": "next build"
   },
   "staged": {
     "version": "v1.0.6",
@@ -16,7 +16,7 @@
     "modsZipSha256": "19c0bc01c092d3789e45bda88adf95e583113b73945ed84ae471ab403c3bd2ba",
     "notes": "next build"
   },
-  "updateAllToken": "v106-live-1",
+  "updateAllToken": "20260211204601",
   "requireResetOnUpdateAll": true,
-  "lastPublishedUtc": "2026-02-11T00:00:00Z"
+  "lastPublishedUtc": "2026-02-11T20:46:01.1753665Z"
 }
