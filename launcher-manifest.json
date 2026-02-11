@@ -7,9 +7,9 @@
     "notes": "public build"
   },
   "staged": {
-    "version": "v1.0.1",
-    "exeUrl": "https://github.com/OwYr777/launcher-client/releases/download/v1.0.1/McLauncher.exe",
-    "sha256": "c44d7352125ab312f837c915149cc770d16d9f8934a92fb6aea7c875fb35027d",
+    "version": "v1.0.2",
+    "exeUrl": "https://github.com/OwYr777/launcher-client/releases/download/v1.0.2/McLauncher.exe",
+    "sha256": "54771fa3b583085434d8101ca4bfbbf611eb7f7a92898c77be23f5579c5cf081",
     "notes": "next build"
   },
   "updateAllToken": "initial",
