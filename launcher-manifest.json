@@ -7,10 +7,10 @@
     "notes": "public build"
   },
   "staged": {
-    "version": "v1.0.3",
-    "exeUrl": "https://github.com/OwYr777/launcher-client/releases/download/v1.0.3/McLauncher.exe",
-    "sha256": "89e67d44acb38ce6bd1d8ae202a665647607828a35f2bd6a164a7314d4d727eb",
-    "modsZipUrl": "https://github.com/OwYr777/launcher-client/releases/download/v1.0.3/bundled-mods.zip",
+    "version": "v1.0.4",
+    "exeUrl": "https://github.com/OwYr777/launcher-client/releases/download/v1.0.4/McLauncher.exe",
+    "sha256": "b1fcfd56a9c296c4f724ed56e60cdc3f4bde1d5ed474df676a65dcfbfdcc2309",
+    "modsZipUrl": "https://github.com/OwYr777/launcher-client/releases/download/v1.0.4/bundled-mods.zip",
     "modsZipSha256": "19c0bc01c092d3789e45bda88adf95e583113b73945ed84ae471ab403c3bd2ba",
     "notes": "next build"
   },
